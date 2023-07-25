@@ -1,0 +1,15 @@
+.carousel-bg-brown {
+  background-color: rgba(79, 32, 13, 0.9);
+  border-radius: 5px;
+  padding: 0.3rem;
+}
+
+.carousel-text {
+  color: var(--white-second);
+}
+
+@media screen and (min-width: 992px) {
+  .carousel-text {
+    font-size: 1.5rem;
+  }
+}
