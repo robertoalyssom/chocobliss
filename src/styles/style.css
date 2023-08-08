@@ -1,5 +1,6 @@
 @import url("./header.css");
 @import url("./banner.css");
+@import url("./find.css");
 
 * {
   padding: 0px;
@@ -35,4 +36,8 @@ h2,
 h3 {
   font-family: "Bungee", sans-serif;
   font-weight: 400;
+}
+
+.title-section {
+  color: var(--brown);
 }
