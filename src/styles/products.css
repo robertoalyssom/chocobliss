@@ -1,0 +1,23 @@
+.bg-yellow {
+  background-color: var(--yellow);
+}
+
+.card-product__title {
+  font-size: 1rem;
+}
+
+.btn {
+  background-color: var(--orange);
+  color: var(--white);
+}
+
+.btn:hover {
+  background-color: var(--yellow);
+  color: var(--brown);
+}
+
+@media screen and (min-width: 1600px) {
+  .card-product__title {
+    font-size: 2rem;
+  }
+}

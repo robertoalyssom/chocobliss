@@ -1,6 +1,7 @@
 @import url("./header.css");
 @import url("./banner.css");
 @import url("./find.css");
+@import url("./products.css");
 
 * {
   padding: 0px;
@@ -32,12 +33,17 @@ h1 {
   font-weight: bold;
 }
 
-h2,
-h3 {
+h2 {
   font-family: "Bungee", sans-serif;
   font-weight: 400;
 }
 
 .title-section {
+  color: var(--brown);
+}
+
+.card-bg {
+  /* background-color: var(--white-second); */
+  background-color: var(--brown);
   color: var(--brown);
 }
