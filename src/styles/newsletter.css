@@ -1,0 +1,12 @@
+.newsletter-container {
+  background-color: var(--orange);
+}
+
+.btn-form {
+  background-color: var(--brown);
+  color: var(--white);
+}
+
+.btn-form:hover {
+  color: var(--black);
+}
