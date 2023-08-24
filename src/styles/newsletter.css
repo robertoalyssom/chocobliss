@@ -1,3 +1,7 @@
+.newsletter-title {
+  color: var(--brown);
+}
+
 .newsletter-container {
   background-color: var(--orange);
 }

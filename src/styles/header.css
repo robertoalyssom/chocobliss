@@ -1,3 +1,26 @@
+.header-link {
+  color: white;
+  text-decoration: none;
+}
+
+.header-link:hover {
+  color: var(--yellow);
+}
+
+.header-link:active {
+  color: var(--orange);
+}
+
+.dropdown-item:hover {
+  background-color: var(--orange);
+  color: var(--brown);
+}
+
+.dropdown-item:active {
+  background-color: var(--black);
+  color: var(--yellow);
+}
+
 .bg-brown {
   background-color: var(--brown);
 }

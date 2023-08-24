@@ -2,6 +2,17 @@
   width: 85%;
 }
 
+/* find cards */
+.find > div > div {
+  transition: 0.3s;
+}
+
+.find > div > div:hover {
+  cursor: pointer;
+  transform: scale(1.05);
+  color: var(--orange);
+}
+
 .img-container {
   width: 100%;
   vertical-align: sub;
